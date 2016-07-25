@@ -1,5 +1,10 @@
 package addrBook;
 
+/*
+ * Author Andre Tertzakian
+ * November, 2013
+ */
+
 import java.io.IOException;
 import java.util.ArrayList;
 

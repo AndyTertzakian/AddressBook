@@ -1,5 +1,10 @@
 package addrBook;
 
+/*
+ * Author Andre Tertzakian
+ * November, 2013
+ */
+
 public class AddressBookRecord {
 	private String firstName;
 	private String lastName;
